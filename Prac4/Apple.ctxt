@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Apple
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Apple\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=private\ void\ checkForSpawning()\ //\ call\ from\ act\ method\r\n\ \ \ \ {\r\n\ \ \ \ \ \ \ \ while(spawnTimer>0){\r\n\ \ \ \ \ \ \ \ \ \ \ \ spawnTimer--;\r\n\ \ \ \ \ \ \ \ }\r\n\ \ \ \ \ \ \ \ if\ (spawnTimer\ \=\=\ 0)\ //\ at\ each\ timer\ reset\r\n\ \ \ \ \ \ \ \ {\r\n\ \ \ \ \ \ \ \ \ \ \ \ getWorld().addObject(new\ Apple(),\ (int)(Math.random()*getWorld().getWidth()),\ (int)(Math.random()*getWorld().getHeight()));\r\n\ \ \ \ \ \ \ \ \ \ \ \ spawnTimer\ \=\ (spawnTimer+1)%300;\r\n\ \ \ \ \ \ \ \ }\r\n\ \ \ \ }\r\n
+numComments=2

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Waffle()
+comment1.params=diameter\ flavor\ isCrispy
+comment1.target=Waffle(int,\ java.lang.String,\ boolean)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3

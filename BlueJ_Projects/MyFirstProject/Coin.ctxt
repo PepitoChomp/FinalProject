@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=value\ material
+comment0.target=Coin(int,\ java.lang.String)
+comment1.params=
+comment1.target=int\ getValue()
+comment2.params=
+comment2.target=java.lang.String\ getMaterial()
+comment3.params=value
+comment3.target=void\ setValue(int)
+comment4.params=material
+comment4.target=void\ setMaterial(java.lang.String)
+comment5.params=
+comment5.target=boolean\ biggerThanDime()
+numComments=6

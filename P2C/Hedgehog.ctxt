@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Hedgehog
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Hedgehog\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Hedgehog()
+comment2.params=name\ speed\ turnAmount
+comment2.target=Hedgehog(java.lang.String,\ int,\ int)
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5
