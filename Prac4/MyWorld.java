@@ -12,5 +12,7 @@ public class MyWorld extends World
         addObject(new Ant(), (int)(Math.random()*getWidth()), (int)(Math.random()*getHeight()));
 
     }
+    System.out.println("yes");
+    
 }
 }
